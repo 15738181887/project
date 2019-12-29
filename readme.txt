@@ -1,4 +1,0 @@
-git is one
-第二次
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
